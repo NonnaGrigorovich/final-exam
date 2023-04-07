@@ -1,0 +1,36 @@
+.btn-container{
+    text-align: center;
+    
+    .currency-btn{
+        color: black;
+        border: 1px solid black;
+        margin-top: 10px;
+    }
+    
+    .btn-currency{
+        color: black;
+        border: 1px solid black;
+        margin-left: 5px;
+        margin-bottom: 20px;
+    }
+}
+
+.container-grid{
+    display: flex;
+    justify-content: center;
+}
+
+.total{
+    text-align: center;
+    font-size: x-large;
+    margin-top: 20px;
+}
+
+.product{
+    font-size: large;
+       .btn-buy{
+        color: black;
+        border: 1px solid black;
+       }
+    
+}
